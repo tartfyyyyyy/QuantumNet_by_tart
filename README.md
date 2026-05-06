@@ -18,7 +18,7 @@ Flash it, reboot, and your device’s network stack runs at its absolute limit.
 ---
 
 ## Installation
-1. Download the latest `QuantumNet_by_tart.zip` from [Releases] (https://www.up-4ever.net/dficraz8ifex)
+1. Download the latest `QuantumNet_by_tart.zip` from [Releases](https://www.up-4ever.net/dficraz8ifex)
 2. Flash in Magisk Manager → Modules → Install from storage
 3. Reboot
 
